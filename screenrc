@@ -1,0 +1,3 @@
+hardstatus alwayslastline "%{= cd} %-w%{= wk} %n %t* %{-}%+w %= LoadAVG [%l] "
+escape ^tt
+termcapinfo xterm* ti@:te@
