@@ -1,0 +1,9 @@
+syntax on
+" ステータスラインを常に表示
+set laststatus=2
+syntax enable
+" Tab文字を半角スペースにする
+set expandtab
+set ruler
+set cursorline
+set tabstop=4
